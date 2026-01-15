@@ -1,14 +1,14 @@
 {
-    "Group": "Example",
-    "Name": "ExamplePlugin",
-    "Version": "0.0.2",
-    "Description": "An example plugin for HyTale!",
+    "Group": "Jackiecrazy",
+    "Name": "Project: War Dance",
+    "Version": "0.1",
+    "Description": "My Minecraft mod ported and adjusted for Hytale. Dodge, parry, and hook your way to stunning victory.",
     "Authors": [
         {
-            "Name": "It's you!"
+            "Name": "Jackiecrazy"
         }
     ],
-    "Website": "example.org",
+    "Website": "github.com/Jackiecrazy/Project-War-Dance-Hytale",
     "ServerVersion": "*",
     "Dependencies": {
         
@@ -17,6 +17,6 @@
         
     },
     "DisabledByDefault": false,
-    "Main": "org.example.plugin.ExamplePlugin",
+    "Main": "jackiecrazy.WarDance",
     "IncludesAssetPack": true
 }
